@@ -5,7 +5,7 @@
 
 body {
   background-image: url('images/sand.jpg');
-  background-postition: bottom right;
+  background-postition: bottom right; /*it looks like you misspelled position.  that could be affecting your background color*/
   background-repeat: repeat-x;
   background-color: lavender;
   font-family: Georgia, Serif;
